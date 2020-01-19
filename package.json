@@ -1,0 +1,40 @@
+{
+  "bugs": {
+    "url": "https://github.com/kixass/homebridge-mediabox-xl/issues"
+  },
+  "path": "",
+  "dependencies": {
+    "ping": "^0.2.2",
+    "util": "^0.10.3",
+    "sleep": "^5.1.1"
+  },
+  "description": "Homebridge plugin for Ziggo Mediabox XL",
+  "devDependencies": {},
+  "directories": {},
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "homebridge",
+    "homebridge-plugin",
+    "ziggo",
+    "mediabox",
+    "mediabox-xml",
+    "homebridge-mediabox-xl"
+  ],
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "author": "KixAss <kixass456@gmail.com> (https://github.com/KixAss/)",
+  "name": "homebridge-mediabox-xl",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kixass/homebridge-mediabox-xl.git"
+  },
+  "version": "0.0.3",
+  "homepage": "https://github.com/kixass/homebridge-mediabox-xl#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
